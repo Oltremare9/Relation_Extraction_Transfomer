@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="469b6d09-dfd0-4cc3-8980-66574b119998" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\apache-maven-3.6.1-bin\maven-repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lkfVAWMWqim5pNi6y2pXLlHj3T" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.34743473" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\Relation_Extraction_Transfomer\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.JsonProcess">
+    <configuration name="ExtractFromExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Extract.ExtractFromExcel" />
+      <module name="Relation_Extraction_Transfomer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Extract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Import.HelloWorldExample" />
+      <module name="Relation_Extraction_Transfomer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Import.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImportData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Import.ImportData" />
+      <module name="Relation_Extraction_Transfomer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Import.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonProcess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Util.JsonProcess" />
+      <module name="Relation_Extraction_Transfomer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Extract.Main" />
+      <module name="Relation_Extraction_Transfomer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Extract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ExtractFromExcel" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.HelloWorldExample" />
+      <item itemvalue="Application.ImportData" />
+      <item itemvalue="Application.JsonProcess" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JsonProcess" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ImportData" />
+        <item itemvalue="Application.HelloWorldExample" />
+        <item itemvalue="Application.ExtractFromExcel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="469b6d09-dfd0-4cc3-8980-66574b119998" name="Default Changelist" comment="" />
+      <created>1608146030799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608146030799</updated>
+      <workItem from="1608146033808" duration="10812000" />
+      <workItem from="1608218063521" duration="959000" />
+      <workItem from="1608225465140" duration="4073000" />
+      <workItem from="1608532933410" duration="787000" />
+      <workItem from="1608536103471" duration="52000" />
+      <workItem from="1608748984723" duration="1312000" />
+      <workItem from="1608794678614" duration="24000" />
+      <workItem from="1609151382185" duration="16341000" />
+      <workItem from="1609171821215" duration="2153000" />
+      <workItem from="1609175461407" duration="629000" />
+      <workItem from="1609752811445" duration="2487000" />
+      <workItem from="1609829217334" duration="20984000" />
+      <workItem from="1609853566859" duration="17928000" />
+      <workItem from="1610452218285" duration="12098000" />
+      <workItem from="1610551028288" duration="24000" />
+      <workItem from="1610559214595" duration="526000" />
+      <workItem from="1613674923371" duration="241000" />
+      <workItem from="1613723268480" duration="617000" />
+      <workItem from="1613727223456" duration="14719000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ExtractFromTuple/ReadFile.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ExtractFromSQL/ExtractFromCSV.java</url>
+          <line>165</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Util/Json2CSV.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="jsonList.get(10433)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
